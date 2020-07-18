@@ -29,15 +29,15 @@ interests:
 
 education:
   courses:
-  - course: HBSc, Honors Specialization in Mathematical Science and Major in Medical Science
+  - course: M.Sc., Financial Modelling
+    institution: University of Western Ontario
+    year: 2020
+  - course: M.Sc., Statistics
+    institution: University of Western Ontario
+    year: 2020
+  - course: Honours B.Sc., Honors Specialization in Mathematical Science and Major in Medical Science
     institution: University of Western Ontario
     year: 2018
-  - course: MSc, Financial Modelling
-    institution: University of Western Ontario
-    year: 2020
-  - course: MSc, Statistics
-    institution: University of Western Ontario
-    year: 2020
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,11 +46,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:madhugunasingam@gmail.com".
 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=N_uIRrAAAAAJ&hl=en&oi=sra
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
