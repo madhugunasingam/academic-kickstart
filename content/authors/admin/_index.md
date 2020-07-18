@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:madhugunasingam@gmail.com".
+  link: '#contact'  # For a direct email link, use "#contact".
 
 - icon: google-scholar
   icon_pack: ai
