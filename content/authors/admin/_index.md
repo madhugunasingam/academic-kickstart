@@ -28,14 +28,14 @@ interests:
 - Applied Probability
 
 education:
-  course:
-    course: HBSc, Honors Specialization in Mathematical Science and Major in Medical Science
+  courses:
+  - course: HBSc, Honors Specialization in Mathematical Science and Major in Medical Science
     institution: University of Western Ontario
     year: 2018
-    course: MSc, Financial Modelling
+  - course: MSc, Financial Modelling
     institution: University of Western Ontario
     year: 2020
-    course: MSc, Statistics
+  - course: MSc, Statistics
     institution: University of Western Ontario
     year: 2020
     
