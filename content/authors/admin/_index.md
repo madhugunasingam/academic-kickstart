@@ -21,10 +21,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Probability Theory
+- Stochastic Portfolio Theory
 - Statistical Learning Theory
 - Optimal Transport
-- Information Geometry
+- Foundations of Statistics
 - Applied Probability
 
 education:
